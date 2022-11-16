@@ -54,7 +54,7 @@ export default function App({ data }) {
   return (
     <main className="flex flex-col w-screen h-screen max-w-screen max-h-screen text-white bg-dark">
       <Head>
-        <title>D3music | Listen Now</title>
+        <title>D3Music | Listen Now</title>
         <meta
           name="description"
           content="A platform for listening and distributing music."

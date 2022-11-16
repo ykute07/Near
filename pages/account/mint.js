@@ -428,7 +428,7 @@ export default function Mint() {
   return (
     <main className="flex flex-col items-center w-screen h-screen max-w-screen max-h-screen text-white bg-dark">
       <Head>
-        <title>D3music | Mint A Song</title>
+        <title>D3Music | Mint A Song</title>
         <meta
           name="description"
           content="Mint an NFT song on the NEAR protocol blockchain."
@@ -439,7 +439,7 @@ export default function Mint() {
       <div className="flex flex-col items-center justify-center h-full w-full gap-2">
         {content()}
       </div>
-      <p className="p-2 font-xs text-gray-500">D3music 2022</p>
+      <p className="p-2 font-xs text-gray-500">D3Music 2022</p>
     </main>
   );
 }
