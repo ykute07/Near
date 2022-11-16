@@ -85,7 +85,7 @@ export default function Home() {
         />
       </div>
       <Head>
-        <title>Nearsound | Listen Now Yogesh</title>
+        <title>Near</title>
         <meta
           name="description"
           content="A platform for listening and distributing music."
