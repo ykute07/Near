@@ -108,7 +108,7 @@ export default function Account() {
   return (
     <main className="flex flex-col items-center justify-center w-screen lg:h-screen max-w-screen lg:max-h-screen text-white bg-dark">
       <Head>
-        <title>Nearsound | Account</title>
+        <title>D3music | Account</title>
         <meta
           name="description"
           content="A platform for listening and distributing music."

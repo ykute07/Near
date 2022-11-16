@@ -85,7 +85,7 @@ export default function Home() {
         />
       </div>
       <Head>
-        <title>Near</title>
+        <title>D3music | Listen now</title>
         <meta
           name="description"
           content="A platform for listening and distributing music."
@@ -99,7 +99,7 @@ export default function Home() {
           alt="Spinning White Fire GIF"
         />
         <h1 className="font-black text-5xl sm:text-6xl lg:text-8xl">
-          DMusic3.
+          D3music
         </h1>
         <h3 className="font-extralight text-lg sm:text-xl lg:text-2xl">
           Decentralized High Definition Music

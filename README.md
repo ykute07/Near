@@ -2,9 +2,9 @@
 For a long time, I wanted to work on some kind of blockchain application, but I didn't really have the experience or time to make it happen. Then one day I was browsing through Reddit and saw an advertisement for the NEAR Metabuild hackathon and decided to take a look. Sure enough, there was a "Welcome Track" that would be perfect for me to submit to. I'm really glad I decided to join the hackathon because I learned a lot about the blockchain world and NEAR protocol itself!
 
 ## Background
-![Profile Photo](https://i.imgur.com/XJ4SoZJ.png)
+<!-- ![Profile Photo](https://loreum_ipsum.png) -->
 
-My name is Anthony, I'm an undergraduate studying AI at Stanford University. I came into this project with a little bit of experience building full-stack applications and NO experience with Rust or NEAR protocol. You can often find me on the [NEAR protocol Discord](https://discord.gg/qKFREzxuTZ) in `#dev-support` asking or answering questions!
+<!-- My name is , I'm an undergraduate studying at MGM's. I came into this project with a little bit of experience building full-stack applications and NO experience with Rust or NEAR protocol. You can often find me on the [NEAR protocol Discord] in `#dev-support` asking or answering questions! -->
 
 ## Project
 My project is a fully decentralized platform for music (like Spotify) where people can listen or post music and artists can earn NEAR from their listeners. 
@@ -155,4 +155,4 @@ Here's a little roadmap of what I have planned.
 
 6) Deploy everything to the mainnet! 
 
-Thanks! I hope you enjoyed my project. -Anthony
+Thanks! I hope you enjoyed my project.

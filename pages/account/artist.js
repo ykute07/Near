@@ -69,18 +69,18 @@ function Artist() {
   return (
     <main className="flex flex-col items-center w-screen h-screen max-w-screen max-h-screen text-white bg-dark">
       <Head>
-        <title>Nearsound | Create An Artist</title>
+        <title>D3music | Create An Artist</title>
         <meta
           name="description"
           content="Claim an Artist account on the NEAR protocol blockchain."
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1 className="p-8 text-3xl font-bold font-mono">nearsound / minting</h1>
+      <h1 className="p-8 text-3xl font-bold font-mono">D3music / minting</h1>
       <div className="flex flex-col items-center justify-center h-full w-full gap-2 text-center">
         {content()}
       </div>
-      <p className="p-2 font-xs text-gray-500">Nearsound 2022</p>
+      <p className="p-2 font-xs text-gray-500">D3music 2022</p>
     </main>
   );
 }

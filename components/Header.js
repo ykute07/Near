@@ -42,7 +42,7 @@ export default function Header() {
         }}
         className="flex items-center justify-center gap-4 cursor-pointer select-none text-3xl"
       >
-        Nearsound
+        D3music
       </div>
       <div className="flex flex-row grow items-center justify-center">
         <form className="flex flex-row items-center justify-center gap-4">
