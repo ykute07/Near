@@ -14,7 +14,7 @@ Integrated with Unstoppable Domain enable with scope so the user have to share t
 
 <!-- home page image  ![Homepage](Screenshots/home_page.png)
  -->
-!(Screenshots/home_page.png)
+![HomePage](Screenshots/home_page.png)
 
 ## How It's Built
 There are two parts to the applications. The frontend was built using NextJS to support a faster and easier development workflow. The backend was obviously built using NEAR protocol and I did not require any 3rd party backend.
