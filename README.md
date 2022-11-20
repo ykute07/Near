@@ -12,18 +12,21 @@ Music is also uploaded as lossless .wav files thanks to IPFS and Filecoin provid
 This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
 Integrated with Unstoppable Domain enable with scope so the user have to share the information which is required and it is Enabled with Humanity Check so there is no Fake and Bot Login
 
-<!-- home page image  ![Homepage](Screenshots/home_page.png)
- -->
+
 ![HomePage](Screenshots/home_page.png)
 
 ## How It's Built
 There are two parts to the applications. The frontend was built using NextJS to support a faster and easier development workflow. The backend was obviously built using NEAR protocol and I did not require any 3rd party backend.
-The frontend was built using NextJS to support a faster and easier development workflow. The backend was built using NEAR protocol .
+The frontend was built using NextJS to support a faster and easier development workflow. The backend was built using NEAR protocol.
 
 ## Link to app
 https://near07.netlify.app/
 
+![Music_Playlist](Screenshots/Song_playlist.png)
 
+![Account Info](Screenshots/Account.png)
+
+![Mint_Song](Screenshots/mint.png)
 
 <!-- ## Inspiration
 For a long time, I wanted to work on some kind of blockchain application, but I didn't really have the experience or time to make it happen. Then one day I was browsing through Reddit and saw an advertisement for the NEAR Metabuild hackathon and decided to take a look. Sure enough, there was a "Welcome Track" that would be perfect for me to submit to. I'm really glad I decided to join the hackathon because I learned a lot about the blockchain world and NEAR protocol itself!
