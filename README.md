@@ -1,10 +1,37 @@
-## Inspiration
+## Problem
+Artists should have ownership of their music and be able to freely trade their ownership of their music.
+Listeners should be able to listen to high-quality music and be able to directly support their favorite artists.
+Today Web2 Apps are highly centralized they own the data of the user , User don’t have control on their data
+Many Website today faces challenges of Fake Login and Bot login
+
+## Solution
+Artists can upload their music as an NFT which gives them ownership of their music
+Which then can be freely traded on any NFT marketplace
+They can also attach royalties to their music so that when ownership of the song is traded between owners, they get a portion of the revenue
+Music is also uploaded as lossless .wav files thanks to IPFS and Filecoin providing a safe and easy way to store large files.
+This allows listeners to have access to the original audio that the artist intended for them to hear. The platform also supports tipping your favorite artists with NEAR tokens, so listeners support their favorite artists directly.
+Integrated with Unstoppable Domain enable with scope so the user have to share the information which is required and it is Enabled with Humanity Check so there is no Fake and Bot Login
+
+<!-- home page image  ![Homepage](Screenshots/home_page.png)
+ -->
+!(Screenshots/home_page.png)
+
+## How It's Built
+There are two parts to the applications. The frontend was built using NextJS to support a faster and easier development workflow. The backend was obviously built using NEAR protocol and I did not require any 3rd party backend.
+The frontend was built using NextJS to support a faster and easier development workflow. The backend was built using NEAR protocol .
+
+## Link to app
+https://near07.netlify.app/
+
+
+
+<!-- ## Inspiration
 For a long time, I wanted to work on some kind of blockchain application, but I didn't really have the experience or time to make it happen. Then one day I was browsing through Reddit and saw an advertisement for the NEAR Metabuild hackathon and decided to take a look. Sure enough, there was a "Welcome Track" that would be perfect for me to submit to. I'm really glad I decided to join the hackathon because I learned a lot about the blockchain world and NEAR protocol itself!
 
 ## Background
 <!-- ![Profile Photo](https://loreum_ipsum.png) -->
 
-<!-- My name is , I'm an undergraduate studying at MGM's. I came into this project with a little bit of experience building full-stack applications and NO experience with Rust or NEAR protocol. You can often find me on the [NEAR protocol Discord] in `#dev-support` asking or answering questions! -->
+<!-- My name is , I'm an undergraduate studying at MGM's. I came into this project with a little bit of experience building full-stack applications and NO experience with Rust or NEAR protocol. You can often find me on the [NEAR protocol Discord] in `#dev-support` asking or answering questions! --
 
 ## Project
 My project is a fully decentralized platform for music (like Spotify) where people can listen or post music and artists can earn NEAR from their listeners. 
@@ -155,4 +182,4 @@ Here's a little roadmap of what I have planned.
 
 6) Deploy everything to the mainnet! 
 
-Thanks! I hope you enjoyed my project.
+Thanks! I hope you enjoyed my project. -->
